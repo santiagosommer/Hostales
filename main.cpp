@@ -32,7 +32,6 @@ using namespace std;
 int main()
 {
     bool loop = true;
-    Fabrica* fabrica = new Fabrica();
     while (loop)
     {
         std::cout << 
